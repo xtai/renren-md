@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Hidden Footprint for RenRen",
+  "description": "This extension helps people hidden footprints at renren.com.",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": ["http://*.renren.com/*"],
+      "js": ["jquery.js", "mine.js"],
+      "css": ["mine.css"]
+    }
+  ],
+  "permissions": [
+    "http://*.renren.com/*"
+  ]
+}

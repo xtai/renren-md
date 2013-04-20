@@ -1,0 +1,77 @@
+.site-footer,
+.site-menu-apps,
+.ready-to-fix,
+.side-poll,
+.sales-poll,
+#recommendFriends,
+.recommend-friend,
+#sponsorsWidget,
+#homeBirthdayPart,
+.tip-content,
+.icons-grade,
+.tip-arrow-top-vip,
+.pymk,
+#friendPhoto,
+#radio-home-con,
+.hats,
+.photo-unread-count,
+.legend .from,
+.dressup-home-btn,
+.r-ad {
+	display: none !important;
+}
+
+#site-menu-nav,
+.footPrint {
+	display: inline !important;
+}
+
+#sidebar,
+.user-info {
+	position: fixed;
+}
+
+#container2{
+	padding-left: 180px;
+}
+
+#global-publisher {
+	padding-left: 160px;
+}
+
+#footPrintList a,
+.apps-item {
+	border-radius: 4px;
+}
+.fphover .tip-content,
+.fphover .tip-footer {
+	position: absolute !important;
+	z-index: 10;
+}
+
+#sidebar2{
+	padding-left: 560px;
+	position: absolute !important;
+}
+
+#content{
+	position: relative !important;
+	width: 800px !important;
+}
+
+.a-feed img,
+.a-feed a,
+.a-feed label,
+.a-feed textarea,
+.avatar,
+.status-editor div,
+.new-feed-tip {
+	border-radius: 6px !important;
+}
+.a-feed div {
+	border-radius: 8px;
+}
+
+.feed-toolbar li{
+	padding: 3px;
+}
